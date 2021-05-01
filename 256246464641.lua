@@ -1,1 +1,1 @@
-fireclickdetector = fireclickdetector or click_detector
+--[[fireclickdetector = fireclickdetector or click_detector]]
